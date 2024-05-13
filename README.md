@@ -22,7 +22,7 @@ File Compose này chứa các biến môi trường sau:
 - **Username**: `nhunguyenadmin@admin.com` 
 - **Password**: `admin` 
 
-## Thêm một máy chủ mới trong PgAdmin:
+## Thêm một server mới trong PgAdmin:
 - **Host name/address**: `postgres_demo`
 - **Port**: `5432`
 - **Username**: `postgres_demo`,
